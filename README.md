@@ -5,4 +5,4 @@
 
 # video
 <h2> Videoda tasarımı daha net bir şekilde görebelirsiniz </h2>
-<img src="jbl_project_sass.mp4" />䨣䱂獟慡灟潲敪瑣�
+<img src="jbl_project_sass.gif" />䨣䱂獟慡灟潲敪瑣�
